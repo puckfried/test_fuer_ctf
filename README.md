@@ -1,3 +1,1 @@
-# Hallo CTF
-
-Ich bin eine Erklärung zu dem Projekt...
+hallo
